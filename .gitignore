@@ -1,0 +1,6 @@
+
+war/WEB-INF/deploy
+war/hello
+.metadata/
+.settings/
+gwt-unitCache/
