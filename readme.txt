@@ -17,10 +17,6 @@ The project will be looking for GWT SDK. Would need to make sure that Eclipse ca
 *) Use the CountCallService to add and show number of call message successfully sent to the server
    Use the countCallButton as the action button and countCallLabel to show the number of succeeded calls
 
-
- - in PersonServiceImpl.java and Hello.java -
-
-*) Add the parameter for the SQL query to get a person by it's Id
-   Check that the id get passed to the 'server-side' implementation.
+  - in PersonInfo.java and Hello.java -
 
 *) Implement the method getName of the PersonInfo bean to have a shortcut on displaying a user information.
